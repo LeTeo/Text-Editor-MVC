@@ -1,0 +1,12 @@
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\bin\Debug\TextEditorMVC.exe
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\bin\Debug\TextEditorMVC.pdb
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\obj\x86\Debug\TextEditorMVC.MainForm.resources
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\obj\x86\Debug\TextEditorMVC.Properties.Resources.resources
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\obj\x86\Debug\TextEditorMVC.csproj.GenerateResource.Cache
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\obj\x86\Debug\TextEditorMVC.exe
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\obj\x86\Debug\TextEditorMVC.pdb
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\obj\x86\Debug\TextEditorMVC.csprojResolveAssemblyReference.cache
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\bin\Debug\TextEditor.BL.dll
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditorMVC\bin\Debug\TextEditor.BL.pdb
+J:\downloads\Documents\Visual Studio 2010\Projects\TextEditorMVC\TextEditorMVC\obj\x86\Debug\TextEditorMVC.exe
+J:\downloads\Documents\Visual Studio 2010\Projects\TextEditorMVC\TextEditorMVC\obj\x86\Debug\TextEditorMVC.pdb

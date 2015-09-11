@@ -1,0 +1,4 @@
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditor.BL\bin\Debug\TextEditor.BL.dll
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditor.BL\bin\Debug\TextEditor.BL.pdb
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditor.BL\obj\Debug\TextEditor.BL.dll
+j:\downloads\lyow август 2015\documents\visual studio 2010\Projects\TextEditorMVC\TextEditor.BL\obj\Debug\TextEditor.BL.pdb
